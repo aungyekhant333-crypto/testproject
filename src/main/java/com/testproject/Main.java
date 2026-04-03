@@ -1,0 +1,7 @@
+package com.testproject;
+
+public class Main {
+    static void main() {
+        IO.println("Hello world!");
+    }
+}
